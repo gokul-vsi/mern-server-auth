@@ -1,0 +1,9 @@
+
+# Other common files/folders to ignore
+node_modules/
+.DS_Store
+*.log
+*.tmp
+
+#Secrets
+.env
